@@ -885,6 +885,12 @@ zwaveManufacturer:
     manufacturerId: 0x010F
     productType: 0x0102
     deviceProfileName: fibaro-dimmer-2
+  - id: "Andersen VeriLock Translator"
+    deviceLabel: Andersen VeriLock Translator
+    manufacturerId: 0x0178
+    productType: 0x5A44
+    productId: 0x414E
+    deviceProfileName: multichannel-switch
 zwaveGeneric:
   - id: "GenericSwitch/1"
     deviceLabel: Switch
